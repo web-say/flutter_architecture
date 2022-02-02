@@ -39,9 +39,12 @@ dev_dependencies:
   freezed: ^1.1.1
   module_data:
     path: ../module_data
+  module_model:
+    path: ../module_model
   module_analyzer:
     path: ../module_analyzer
   flutter_lints: ^1.0.0
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

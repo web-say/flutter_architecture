@@ -195,6 +195,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_lints:
+    dependency: "direct dev"
+    description:
+      name: flutter_lints
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.4"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -298,6 +305,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.4.0"
+  lints:
+    dependency: transitive
+    description:
+      name: lints
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.1"
   logging:
     dependency: transitive
     description:
@@ -334,14 +348,14 @@ packages:
     source: path
     version: "1.0.0+1"
   module_data:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       path: "../module_data"
       relative: true
     source: path
     version: "1.0.0+1"
   module_model:
-    dependency: transitive
+    dependency: "direct dev"
     description:
       path: "../module_model"
       relative: true

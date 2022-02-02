@@ -235,13 +235,6 @@ packages:
       relative: true
     source: path
     version: "1.0.0+1"
-  module_data:
-    dependency: transitive
-    description:
-      path: "packages/module_data"
-      relative: true
-    source: path
-    version: "1.0.0+1"
   module_model:
     dependency: "direct main"
     description:
